@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+h1{color: chartreuse; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+p{color: darkgreen;font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"}
+h2{color: darkolivegreen; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+
+li a {color: black;font-size: 40px; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+
+ol {
+  background:#FFFFFF;
+  padding: 20px;
+}
+
+ul {
+  background: #102D18;
+  padding: 20px;
+}
+
+ul li {
+  background: #C5F1CF;
+  margin: 5px;
+}
